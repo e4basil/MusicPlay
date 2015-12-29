@@ -1,6 +1,6 @@
 # MusicPlay
 
-complete music plyer with lock screen support
+complete music player with lock screen support
 
 
 credits:  Ankit Kumar
